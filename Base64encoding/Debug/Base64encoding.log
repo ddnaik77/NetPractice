@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\myprojects\solution\netpractice\base64encoding\source.cpp(117): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+d:\myprojects\solution\netpractice\base64encoding\source.cpp(133): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  Base64encoding.vcxproj -> D:\MyProjects\Solution\NetPractice\Debug\Base64encoding.exe
