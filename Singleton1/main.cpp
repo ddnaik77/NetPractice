@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Cpmment for Git
+
 class TSingleton
 {
 
@@ -22,7 +24,7 @@ private:
         this->num2 = num2;
     }
 
-   // ~TSingleton( );
+   // ~TSingleton( ); 
 
 private:
     int num1;
