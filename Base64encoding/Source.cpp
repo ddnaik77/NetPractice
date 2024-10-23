@@ -144,7 +144,7 @@ std::string base64_decode( std::string const& encoded_string ) {
 
 
 int main( ) {
-    for( size_t i = 1000; i < 1010; i++ )
+    for( size_t i = 1000; i < 1005; i++ )
     {
         int num = i;
 
@@ -163,8 +163,5 @@ int main( ) {
         /*std::cout << "decoded: " << std::endl << atoi( decoded.c_str( ) ) << std::endl;*/
     }
    
-
-
-    std::getchar( );
     return 0;
 }
